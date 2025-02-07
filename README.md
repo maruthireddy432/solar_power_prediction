@@ -1,4 +1,4 @@
-# 🌞 Solar Power Prediction ⚡
+# 🌞 Solar Power Prediction 
 
 # 🌟 Key Features
   - Accurate Predictions: Use weather parameters like temperature, wind speed, sky cover, etc., to predict solar power generation.
